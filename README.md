@@ -14,7 +14,7 @@ In previous lessons on algorithms, we discussed certain problems become easier w
   let sortedArray = [-1, 1, 3, 5, 6]
   array[2]
   // 3
-  // so know need to look lower
+  // so no need to look lower
   // only need to look at indices 0 and 1
 
   let unsortedArray = [5, 6 -1, 1, 3]
