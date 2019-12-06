@@ -1,6 +1,6 @@
 ## Sort Algorithms
 
-If you think about it, a lot of what we ask computers to do involves placing items in the correct order.  For example, if you have a recommendation system like Netflix, these recommendations have should be delivered in the correct order.  But something more basic like displaying apartment listings from their highest to lowest price also involves sorting.  
+If you think about it, a lot of what we ask computers to do involves placing items in the correct order.  For example, if you have a recommendation system like Netflix, these recommendations should be delivered in the correct order.  But something more basic like displaying apartment listings from their highest to lowest price also involves sorting.  
 
 
 
@@ -31,3 +31,5 @@ There are other operations, in addition to checking for inclusion, that become e
 
 So, now that we know some of the benefits, let's consider how we do it.
 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/sorting-algorithms-introduction'>Sorting Algorithms Introduction</a> on Learn.co and start learning to code for free.</p>
